@@ -41,6 +41,7 @@ By definition, a product manager is an individual who drives the product vision 
     - [Screeb](#screeb)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
+    - - [AI Tools for Product Managers](#ai-tools-for-product-managers)
 - [Articles](#articles)
   - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
   - [Product Development & Process](#product-development--process)
@@ -575,6 +576,15 @@ Technical perspectives on product development and engineering practices.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+
+- ## AI Tools for Product Managers
+
+- Artificial intelligence is transforming how product managers work. These tools help PMs accelerate research, analysis, and documentation tasks.
+
+- - [ChatGPT](https://openai.com/chatgpt) - Advanced conversational AI for drafting PRDs, brainstorming features, and analyzing user feedback at scale.
+  - - [Claude](https://claude.ai) - AI assistant designed for nuanced reasoning, excellent for complex product strategy discussions and documentation.
+    - - [Perplexity AI](https://www.perplexity.ai) - Search-focused AI that provides real-time information and citations, useful for competitive research and market analysis.
+      - - [Copy.ai](https://www.copy.ai) - Specialized in generating marketing copy and product messaging for go-to-market strategies.
 
 ## License
 
